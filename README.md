@@ -1,5 +1,7 @@
 # esp8266-gardener
 
+- On the Adafruit Feather HUZZAH ESP8266, the analog pin is also 1.0V max!
+
 # References
 
 - https://learn.adafruit.com/adafruit-feather-huzzah-esp8266
